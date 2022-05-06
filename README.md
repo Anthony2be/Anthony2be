@@ -3,7 +3,7 @@ Skills
 ### Learned
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,cs,go,py,git,md,mysql,tailwind)](https://skills.thijs.gg)\
 ### Learning
-[![My Skills](https://skills.thijs.gg/icons?i=rust,ts,deno,nodejs,docker,react,svelte,unity)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=rust,wasm,ts,deno,nodejs,docker,react,svelte,unity)](https://skills.thijs.gg)
 
 Social Media
 ---
