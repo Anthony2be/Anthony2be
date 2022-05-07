@@ -4,7 +4,7 @@ Skills
 ---
 
 ### Learned
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,discord,bots,go,py,git,github,md,mysql,tailwind,flask,linux,visualstudio,vscode,raspberrypi&perline=10)](https://skillicons.dev)\
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,discord,bots,go,py,git,github,md,mysql,tailwind,flask,linux,visualstudio,vscode,raspberrypi&perline=10)](https://skillicons.dev)
 
 ### Learning
 [![My Skills](https://skillicons.dev/icons?i=rust,wasm,ts,deno,nodejs,docker,react,svelte,unity,electron,regex&perline=10)](https://skillicons.dev)
