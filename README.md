@@ -1,5 +1,8 @@
+<div align="center">
+
 Skills
 ---
+
 ### Learned
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,discord,bots,go,py,git,github,md,mysql,tailwind,flask,linux,visualstudio,vscode,raspberrypi&perline=10)](https://skillicons.dev)
 ### Learning
@@ -13,3 +16,5 @@ Activity
 ---
 ![Anthony2be's Github stats](https://github-readme-stats.vercel.app/api?username=Anthony2be&show_icons=true&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)\
 ![Anthony2be's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony2be&theme=dark&bg_color=171b22&text_color=CCCCCC&hide_border=true)
+
+</div>
