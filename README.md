@@ -1,9 +1,9 @@
 Skills
 ---
 ### Learned
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,discord,bots,go,py,git,github,md,mysql,tailwind,flask,linux,visualstudio,vscode,raspberrypi)](https://skills.thijs.gg)\
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,dotnet,discord,bots,go,py,git,github,md,mysql,tailwind,flask,linux,visualstudio,vscode,raspberrypi)](https://skillicons.dev)\
 ### Learning
-[![My Skills](https://skillicons.dev/icons?i=rust,wasm,ts,deno,nodejs,docker,react,svelte,unity,electron,regex)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=rust,wasm,ts,deno,nodejs,docker,react,svelte,unity,electron,regex)](https://skillicons.dev)
 
 Social Media
 ---
